@@ -1,3 +1,4 @@
+package singleton;
 class BillPughSingleton {
     private BillPughSingleton() { }
 

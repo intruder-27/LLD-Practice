@@ -1,3 +1,4 @@
+package singleton;
 enum EnumSingleton {
     INSTANCE;
 

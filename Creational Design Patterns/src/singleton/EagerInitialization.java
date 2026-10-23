@@ -1,3 +1,4 @@
+package singleton;
 class EagerInitializationLogger {
 
     // created as soon as the class is loaded, before any thread
