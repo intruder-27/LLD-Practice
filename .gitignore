@@ -1,3 +1,5 @@
+# Compiled output directories
+Creational Design Patterns/out/
 
 # Compiled Java files
 *.class

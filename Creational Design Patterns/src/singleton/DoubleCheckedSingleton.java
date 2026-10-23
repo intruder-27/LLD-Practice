@@ -1,3 +1,4 @@
+package singleton;
 class DoubleCheckedSingletonLogger {
     // volatile prevents reordering of instructions in: instance = new Singleton()
     // since it involves three steps: allocate memory, call constructor, assign reference
